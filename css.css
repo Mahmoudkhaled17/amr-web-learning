@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    background-color: #8bbaea;
+    text-align: center;
+     justify-content: space-between;
+    align-items: center;
+    font-family: Momo Signature;
+    font-size : 50px;  
+    
+    
+}
+
+
+header div img {
+    border-radius:50%;
+    border: 2px solid #000;
+    width: 300px;
+    height: 300px;
+
+
+}
+
+header h1 {
+    
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000; 
+    margin-left: 50px;
+    
+}
+    
+header h2 {
+    
+    
+    color: #fff;
+    text-shadow: 7px 7px 7px #000000; 
+   font-family:Momo Signature;
+   margin-right: 50px;
+    
+    
+}
+main {
+    background-image: url('Gemini_Generated_Image_d1mnosd1mnosd1mn.png');
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: auto;
+}
+main div audio{
+    display: none;
+}
+
+
+
